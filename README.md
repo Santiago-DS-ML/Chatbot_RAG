@@ -26,8 +26,6 @@ L'objectif du projet est de construire un assistant capable de fournir des répo
 
 ![Conversation avec JANGO](chatbot-conversation.jpeg)
 
-> Ajoutez vos deux captures dans un dossier `images/` à la racine du projet.
-
 ---
 
 ## 🧠 Architecture du projet
