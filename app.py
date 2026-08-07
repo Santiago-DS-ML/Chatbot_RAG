@@ -11,7 +11,7 @@ from langchain_core.messages import HumanMessage, AIMessage
 
 st.set_page_config(page_title= 'Jango')
 st.title('Jango')
-st.write("WXISOFZOZKFOKZOFZIOKFOZJ")
+st.write("Jango est votre assistant conversationnel qui répond de façon pertinente et intelligente à vos préocupations.")
 
 @st.cache_resource
 def load_embeddings():
