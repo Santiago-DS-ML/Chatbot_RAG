@@ -155,8 +155,8 @@ jango/
 ├── informations.txt
 ├── requirements.txt
 ├── README.md
-├── chatbot-interface.png
-├── chatbot-conversation.png
+├── chatbot-interface.jpeg
+├── chatbot-conversation.jpeg
 
 ## 🔐 Sécurité
 
