@@ -20,11 +20,11 @@ L'objectif du projet est de construire un assistant capable de fournir des répo
 
 ### Interface du chatbot
 
-![Interface du chatbot](chatbot-interface.png)
+![Interface du chatbot](chatbot-interface.jpeg)
 
 ### Conversation avec mémoire et RAG
 
-![Conversation avec JANGO](chatbot-conversation.png)
+![Conversation avec JANGO](chatbot-conversation.jpeg)
 
 > Ajoutez vos deux captures dans un dossier `images/` à la racine du projet.
 
