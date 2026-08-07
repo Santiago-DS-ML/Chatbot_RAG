@@ -49,7 +49,7 @@ Réponds uniquement à partir du contexte fourni.
 
 Si la réponse n'est pas présente dans le contexte, dis clairement que tu ne sais pas et n'utilise pas ta mémoire interne.
 """), 
-    MessagesPlaceholder({"chat_history"}),
+    MessagesPlaceholder("chat_history"),
     ("human", """
     Contexte :
 
